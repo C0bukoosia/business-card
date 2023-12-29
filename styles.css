@@ -1,0 +1,30 @@
+body{
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.avatar{
+    width: 150px;
+ 
+}
+a:hover{
+    background-color: aqua;
+}
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: plum;
+    color: #2b2839;
+    border-bottom: 6px solid silver;
+    border-radius: 8px;
+}
+
+.border-blue{
+    border: 1px dotted blue;
+
+}
